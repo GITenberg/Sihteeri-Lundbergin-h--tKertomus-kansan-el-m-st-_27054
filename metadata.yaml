@@ -1,0 +1,38 @@
+_repo: Sihteeri-Lundbergin-h--tKertomus-kansan-el-m-st-_27054
+_version: 0.1.0
+alternative_title: Sekter Lundbergs bröllop. Finnish
+contributor:
+  translator:
+    agent_name: Hirvonen, Simeon
+    alias: Hirvonen, Simo
+    birthdate: 1848
+    deathdate: 1915
+    gutenberg_agent_id: '32420'
+    url: http://www.gutenberg.org/2009/agents/32420
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Axelson, Maximilian
+    aliases:
+    - Axelson, Johan Eugen Maximilian
+    - Axelson, Johan Eugén Maximilian
+    birthdate: 1823
+    deathdate: 1884
+    gutenberg_agent_id: '32419'
+    url: http://www.gutenberg.org/2009/agents/32419
+description: ''
+gutenberg_issued: '2008-10-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27054'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Swedish fiction -- Translations into Finnish'
+title: 'Sihteeri Lundbergin häät: Kertomus kansan elämästä'
+url: http://www.gutenberg.org/ebooks/27054
